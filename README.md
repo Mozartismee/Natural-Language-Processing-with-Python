@@ -1,6 +1,6 @@
 # Natural Language Processing Tutorial with Steven Bird's Textbook
 
-This repository contains a collection of tutorials and code examples based on Steven Bird's Natural Language Processing (NLP) textbook, _Natural Language Processing with Python_. The aim of this repository is to provide an accessible and practical introduction to NLP concepts and techniques, as well as to offer a comprehensive guide for beginners.
+This repository contains a collection of tutorials and code examples based on Steven Bird's _[Natural Language Processing (NLP) textbook](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495)_, _Natural Language Processing with Python_. The aim of this repository is to provide an accessible and practical introduction to NLP concepts and techniques, as well as to offer a comprehensive guide for beginners.
 
 Please note that the code examples provided in this repository are adapted from the textbook, and full credit for the original source goes to the author, Steven Bird.
 
